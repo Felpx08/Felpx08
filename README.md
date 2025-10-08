@@ -67,7 +67,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 |-----------------------|-------------------------------------|--------------------------|
 
-| **Criando-site** | [🔗 Ver online]https://seu-link.com](https://felpx08.github.io/site-felipe/) | HTML / CSS / JS          |
+| **Criando-site** | [🔗 Ver online](https://felpx08.github.io/site-felipe/) | HTML / CSS / JS          |
 
       |
 
