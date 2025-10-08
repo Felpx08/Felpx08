@@ -112,7 +112,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 
 
-## Hi there 👋
+
 
 <!--
 **Felpx08/Felpx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
